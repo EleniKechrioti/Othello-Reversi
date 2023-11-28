@@ -24,6 +24,14 @@ Alternatively you can run the following commands
 and play on your terminal.<br>
 Note: For the printing of the game board we used unicodes for coloring, so it may not be recognized from your terminal.
 
+## Features
+- Responsive AI using MinMax algorithm with alpha-beta pruning
+- Customizable depth for the MinMax algorithm, selected by the user (1-5 can be visualized as difficalty level)
+- Adaptable turn-user can choose if he wants to play first or second
+- Possible valid moves for the user are provided, to help him play easier
+- Error messages for invalid moves-checking for users miss
+- Command line and GUI implementation
+
 ## Collaborators
 - [Eleni Kechrioti](https://github.com/EleniKechrioti)
 - [Maria Schoinaki](https://github.com/MariaSchoinaki)

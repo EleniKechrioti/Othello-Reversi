@@ -2,7 +2,7 @@
 
 Othello Reversi is a java based game build with graphics for our Artificial Intelligence course at AUEB. 
 Othello is a two-player game, and here the player plays against the AI, which is implemented with the Minimax algorithm using a-b pruning.
-Our report for this project can be found in greek [here](https://github.com/EleniKechrioti/Othello-Reversi/blob/main/report.pdf).
+Our report for this project can be found in [greek](https://github.com/EleniKechrioti/Othello-Reversi/blob/main/report_greek.pdf) and in [english](https://github.com/EleniKechrioti/Othello-Reversi/blob/main/report_english.pdf).
 
 ## How to play
 1. Clone the project.
